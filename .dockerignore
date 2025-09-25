@@ -1,0 +1,17 @@
+node_modules
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.tar
+*.tar.gz
+*.zip
+.DS_Store
+.git
+.gitignore
+.env
+config.env
+uploads
+plots
+
