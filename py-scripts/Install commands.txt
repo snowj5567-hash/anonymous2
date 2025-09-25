@@ -1,0 +1,6 @@
+pip install -r requirements.txt
+
+The tool must be executed through CMD
+
+all rights reserved
+karim Gomaa
